@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ I’m an electronic engineer graduated from the Universidad Tecnológica de Pereira, Colombia.
+🔭 I’m currently working at the company Mundo Salud Medica as a software developer.
+👯 I’m looking to collaborate on web development projects focused on video games.
+🌱 I’m currently learning everything involved with the Laravel and Angular frameworks.
+🎼 Lover of dark ambient music, musical bands produced by (Hans Zimmer, Rok Nardin, Mili, Eternal Eclipse, Invictus, Supreme Devices), alternative rock (Starset, Lappy, Cepheid)
+🎮 My favorite game is Zelda: Breath of the Wild.

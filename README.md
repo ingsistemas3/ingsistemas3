@@ -1,3 +1,8 @@
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Diego%20Morales&fontAlign=50&fontColor=000080&reversal=false&animation=fadeIn&stroke=FF0000&descAlign=55" />
+</div>
+
+
 ## Hi there 👋
 
 <!--

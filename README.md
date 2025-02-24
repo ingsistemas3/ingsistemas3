@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning everything involved with the Laravel and Angular frameworks.
 🎼 Lover of dark ambient music, musical bands produced by (Hans Zimmer, Rok Nardin, Mili, Eternal Eclipse, Invictus, Supreme Devices), alternative rock (Starset, Lappy, Cepheid)
 🎮 My favorite game is Zelda: Breath of the Wild.
+
+### :zap: Actividad reciente

@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 🎮 My favorite game is Zelda: Breath of the Wild.
 
 ### :zap: Actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎼 Lover of dark ambient music, musical bands produced by (Hans Zimmer, Rok Nardin, Mili, Eternal Eclipse, Invictus, Supreme Devices), alternative rock (Starset, Lappy, Cepheid)
 🎮 My favorite game is Zelda: Breath of the Wild.
 
-### :zap: Actividad reciente
+### :zap: My recent activities
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ingsistemas3/myFirstRepository](https://github.com/ingsistemas3/myFirstRepository)<br>

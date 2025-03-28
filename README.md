@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 ### :zap: My recent activities
 
  <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ingsistemas3/BootcampRPA-PerformanceProce1](https://github.com/ingsistemas3/BootcampRPA-PerformanceProce1) from [Pix-Robotics/BootcampRPA-PerformanceProce1](https://github.com/Pix-Robotics/BootcampRPA-PerformanceProce1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last-update-->
